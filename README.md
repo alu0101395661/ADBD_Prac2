@@ -120,5 +120,6 @@ Para cualquier pedido realizado por un cliente Tajinaste Plis, la propiedad PEDI
 ZONA.latitud y ZONA.longitud deben encontrarse en un radio o margen geomético coherente respecto a VIVERO.latitud y VIVERO.longitud.
 
 
+<img width="1442" height="998" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/031287a1-95ca-41a0-9dc5-801a8aa03719" />
 
 
