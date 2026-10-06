@@ -1,4 +1,10 @@
 # ADBD_Prac2
+
+## DIAGRAMA
+
+<img width="1442" height="998" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/0bbf596b-9fa7-40c8-a85c-11d5da5ded1f" />
+
+
 ## Descripción de las Entidades
 ### Vivero
 Vivero: Centro físico de venta de plantas, productos de jardinería y decoración gestionado por la empresa Tajinaste S.A. Es una entidad fuerte con los siguientes atributos:
@@ -120,6 +126,6 @@ Para cualquier pedido realizado por un cliente Tajinaste Plis, la propiedad PEDI
 ZONA.latitud y ZONA.longitud deben encontrarse en un radio o margen geomético coherente respecto a VIVERO.latitud y VIVERO.longitud.
 
 
-<img width="1442" height="998" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/031287a1-95ca-41a0-9dc5-801a8aa03719" />
+
 
 
